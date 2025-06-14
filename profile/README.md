@@ -4,9 +4,10 @@
 
 
 ## 이미지 테스트
-<img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fc44b719e-00bc-4c2f-8e2e-a35643b3895c%2F122c49f4-704b-4768-9e40-85595a3fd967%2FYogurT-header.png/size/w=1150?exp=1749978752&sig=1CHvpJo7oXbda2j2LHHRRDfP__6faow_eXM1IoaUWBI&id=212db984-79f6-802a-aab7-cb4dedf3cbcd&table=block&userId=3e5b6b18-631d-4e46-9e5c-971d4a1940a5"  width="500" height="auto"/>
+<img src="https://github.com/user-attachments/assets/da0d2618-7751-4e7a-b644-f2724e70b428"  width="500" height="auto"/>
 
 ![Image](https://github.com/user-attachments/assets/ad81c3b6-1db2-4cc3-b377-b79ed295b44e)
+
 
 <img src="https://github.com/user-attachments/assets/ad81c3b6-1db2-4cc3-b377-b79ed295b44e"  width="500" height="auto"/>
 
@@ -16,7 +17,7 @@
 
 <aside>
 
-![YogurT-header.png](attachment:122c49f4-704b-4768-9e40-85595a3fd967:YogurT-header.png)
+![YogurT-header.png](https://github.com/user-attachments/assets/42dc90b3-adaa-4ae2-95ee-a724d89ea7b8)
 
 **요거티(YogurT)**는 천재교육의 서비스인 ‘AIDT’와 ‘밀크T’에서 영감을 받아 만들어졌으며, 여기서 **T**는 **Textbook(교과서)**와 **Teacher(교사)**를 의미합니다.
 
@@ -172,7 +173,7 @@ Amazone EC2
 
 <aside>
 
-![YogurT-header.png](YogurT-header.png)
+![YogurT-header.png](https://github.com/user-attachments/assets/da0d2618-7751-4e7a-b644-f2724e70b428)
 
 **요거티(YogurT)**는 천재교육의 서비스인 'AIDT'와 '밀크T'에서 영감을 받아 만들어졌으며, 여기서 **T**는 **Textbook(교과서)**와 **Teacher(교사)**를 의미합니다.
 
@@ -191,7 +192,7 @@ Amazone EC2
 
 2025/05/14 ~ 2025/06/12 (총 19일)
 
-![image.png](image.png)
+![Image](https://github.com/user-attachments/assets/bc425a49-c367-4d33-b185-e3b84b119782)
 
 # 🙌🏻 팀원 구성
 
@@ -199,51 +200,50 @@ Amazone EC2
 
 **김노은**
 
-![NE 02-1.png](NE_02-1.png)
+<img src="https://github.com/user-attachments/assets/7ccacfff-a272-43d2-9efa-0cdaaca137ac"  width="150" height="auto"/>
 
 [@kimnoninoni](https://github.com/kimnoninoni)
 
 **김다예**
 
-![02-2 mover. (3).png](02-2_mover._(3).png)
+<img src="https://github.com/user-attachments/assets/fc2c96f5-5721-4b7c-a222-dc919df55ef4"  width="150" height="auto"/>
 
 [@DayeByDay82](https://github.com/DayeByDay82)
 
 **김성우**
 
-![SW 01-1.png](SW_01-1.png)
+<img src="https://github.com/user-attachments/assets/4888b177-d6b7-4072-96fb-996a25dea21a"  width="150" height="auto"/>
 
 [@sw326](https://github.com/sw326)
 
 **김희진**
 
-![02-2 mover. (4).png](02-2_mover._(4).png)
+<img src="https://github.com/user-attachments/assets/707d9e8e-9fcd-456c-88d8-a35469920278"  width="150" height="auto"/>
 
 [@HJ2411](https://github.com/HJ2411)
 
 **이영주**
 
-![YJ 01.jpg](YJ_01.jpg)
+<img src="https://github.com/user-attachments/assets/1fcd0abc-0a53-4dfe-8f51-c24bd8288f5c"  width="150" height="auto"/>
 
 [@sensato437](https://github.com/sensato437)
 
 ### 역할 분담
 
-![YogurT_역할.jpg](YogurT_%EC%97%AD%ED%95%A0.jpg)
+![YogurT_역할.jpg](https://github.com/user-attachments/assets/c427738e-aed7-40f2-803f-10a8000bd629)
 
 # :spring-data: ERD
 
 ---
 
-![image.png](image%201.png)
+![image.png](https://github.com/user-attachments/assets/b2309f44-c034-4bbf-b420-de6cec55ff44)
 
 # ⚙️기술 스택
 
 ---
 
 ## 개발환경
-
-![YogurT 최종 프로젝트(원본).pptx.jpg](YogurT_%EC%B5%9C%EC%A2%85_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EC%9B%90%EB%B3%B8).pptx.jpg)
+![YogurT 최종 프로젝트(원본).pptx.jpg](https://github.com/user-attachments/assets/3135811d-b0ab-492b-9a07-6962ffbd0b8a)
 
 | **Front-end** | React, styled-components, TypeScript, Zustand, TanStack-Query, STOMP, MathJax |
 | --- | --- |
@@ -255,7 +255,7 @@ Amazone EC2 |
 
 ## 프로젝트 아키텍처
 
-![image.png](image%202.png)
+![image.png](https://github.com/user-attachments/assets/c445bbdd-e8d3-4059-8055-eae3be02cfe8)
 
 # 🚦핵심 기능
 
@@ -409,12 +409,11 @@ Back-YogurT
 ---
 
 ## 🏡 홈
-
-![교사 홈](3c170ef5-a94b-4d44-bcdc-0095809cab61.png)
+<img src="https://github.com/user-attachments/assets/d2033342-7469-45da-82f4-208e8a9ee2cf"  width="500" height="auto"/>        
 
 교사 홈
 
-![학생 홈](image%203.png)
+<img src="https://github.com/user-attachments/assets/0f8fbf09-bf34-41ea-92c2-7f3a6713a70f"  width="500" height="auto"/>
 
 학생 홈
 
@@ -422,87 +421,88 @@ Back-YogurT
 
 ### 수업 이어하기
 
-![Cls-ing.gif](Cls-ing.gif)
+<img src="https://github.com/user-attachments/assets/6eed36f7-cc23-4ddf-a22c-050c1419de59"  width="500" height="auto"/>
 
 ### 학습 완료 처리
 
-![Cls-finish.gif](Cls-finish.gif)
+<img src="https://github.com/user-attachments/assets/8a743b45-d13f-4381-bf10-0bb8f6970546"  width="500" height="auto"/>
 
 ### 수업 사이드바 (3초 뒤 저장)
 
-![Cls-progress.gif](Cls-progress.gif)
+<img src="https://github.com/user-attachments/assets/9c45cf94-2761-456a-8982-fea32a2358c7"  width="500" height="auto"/>
 
 ### 분기별(익힘/평가) 선택
 
-![Cls-select.gif](Cls-select.gif)
+<img src="https://github.com/user-attachments/assets/d34a0d05-488a-473b-b638-cf5623ac2c53"  width="500" height="auto"/>
 
 ## 🚀 웹소켓
 
 ### 중복 로그인 방지
 
-![중복 로그인.gif](%EC%A4%91%EB%B3%B5_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
+<img src="https://github.com/user-attachments/assets/e6a1952d-6020-4f8d-a0a3-de5f6cc21719"  width="500" height="auto"/>
 
 ### 학생 온라인 및 위치 추적
 
-![위치확인 및 로그인.gif](%EC%9C%84%EC%B9%98%ED%99%95%EC%9D%B8_%EB%B0%8F_%EB%A1%9C%EA%B7%B8%EC%9D%B8.gif)
+<img src="https://github.com/user-attachments/assets/bdbe3f80-55a8-428b-ac09-c2b3e6fd0a18"  width="500" height="auto"/>
 
 ### 집중학습모드
 
-![집중모드.gif](%EC%A7%91%EC%A4%91%EB%AA%A8%EB%93%9C.gif)
+<img src="https://github.com/user-attachments/assets/218c3247-dff0-402f-8537-36f13680ef2a"  width="500" height="auto"/>
 
 ## 📝 평가
 
 ### [학생 / 교사] 평가 목록
 
-![학생 평가 목록(응시중인 평가만 보기 가능)](%ED%8F%89%EA%B0%80%EB%AA%A9%EB%A1%9D.gif)
+
+<img src="https://github.com/user-attachments/assets/21079461-398f-4c70-baa1-38248fcd44fa"  width="500" height="auto"/>
 
 학생 평가 목록(응시중인 평가만 보기 가능)
 
-![교사 평가 목록(진행중인 평가만 가능, 학급 평가 응시 통계 확인 가능)](%ED%8F%89%EA%B0%80%EB%AA%A9%EB%A1%9D(%EA%B5%90%EC%82%AC).gif)
+<img src="https://github.com/user-attachments/assets/be81e5e7-bff2-420d-9805-6b99a4338df9"  width="500" height="auto"/>
 
 교사 평가 목록(진행중인 평가만 가능, 학급 평가 응시 통계 확인 가능)
 
 ### [공통] 평가 문항 풀이 (교사: 정답 보기 버튼 추가)
 
-![평가 이어하기를 통한 이전 답안 표시](%ED%8F%89%EA%B0%80%EC%9D%91%EC%8B%9C.gif)
+<img src="https://github.com/user-attachments/assets/b2d1e395-9fdd-4217-b110-406149b21e29"  width="500" height="auto"/>
 
 평가 이어하기를 통한 이전 답안 표시
 
 ### [교사] 학급 리포트 → 학생 리포트 → 학생 결과
 
-![TcrEvRpt_Result.gif](TcrEvRpt_Result.gif)
+<img src="https://github.com/user-attachments/assets/df6ec945-4bfe-45f1-aff6-ef4aefb9ce47"  width="500" height="auto"/>
 
 ### 평가 네비게이션
 
-![홈 → 평가 → 홈](%ED%99%88%EC%97%90%EC%84%9C_%EC%A0%91%EA%B7%BC.gif)
+<img src="https://github.com/user-attachments/assets/a24e33c8-e6e3-4165-b67e-dc1a6898ef57"  width="500" height="auto"/>
 
 홈 → 평가 → 홈
 
-![학습 상세 → 평가 → 학습 상세](%ED%95%99%EC%8A%B5_%EC%83%81%EC%84%B8_%EC%A0%91%EA%B7%BC.gif)
+<img src="https://github.com/user-attachments/assets/e5c6ca65-34c8-4811-b701-802e864cf4e9"  width="500" height="auto"/>
 
 학습 상세 → 평가 → 학습 상세
 
 ### 판서 기능(Canvas)
 
-![canvas.gif](canvas.gif)
+<img src="https://github.com/user-attachments/assets/e41808cf-8e9f-4b62-abfb-d17e4e37d44e"  width="500" height="auto"/>
 
 ## 📊 통계
 
 ### [학생 / 교사] 기간별 학습 요약 / 학급 학습 현황
 
-![image.png](image%204.png)
+<img src="https://github.com/user-attachments/assets/663611cd-9d66-4f65-9303-00b90ab8affa"  width="500" height="auto"/>
 
-![통계.gif](%ED%86%B5%EA%B3%84.gif)
+<img src="https://github.com/user-attachments/assets/e17a2e94-eddb-4573-9f4c-9b5d8f0701b6"  width="500" height="auto"/>
 
 ### [학생] 단원별 나의 성취도 및 학습 패턴
 
-![image.png](image%205.png)
+<img src="https://github.com/user-attachments/assets/fcb5e787-8b13-43fa-97f5-bd81b0969400"  width="500" height="auto"/>
 
-![image.png](image%206.png)
+<img src="https://github.com/user-attachments/assets/4c67f52d-f7ad-41c8-bde8-26704b5de274"  width="500" height="auto"/>
 
 ### [학생] 평가별 분석
 
-![image.png](image%207.png)
+<img src="https://github.com/user-attachments/assets/231437a7-575e-4299-b109-de430f280dcb"  width="500" height="auto"/>
 
 # ⛳ 개선 목표
 
@@ -512,13 +512,13 @@ Back-YogurT
 - UX를 고려한 세부적인 디테일 개선 필요
 - 캐싱 처리로 성능, 속도 개선이 필요함
     
-    ![image.png](a989bf9f-6d13-4652-b90d-be980a9dd527.png)
+<img src="https://github.com/user-attachments/assets/1a6bd144-7345-4035-9abd-83927414096c"  width="500" height="auto"/>
     
-    ![image.png](image%208.png)
+<img src="https://github.com/user-attachments/assets/db122458-5e93-4511-a265-dbd04771000f"  width="500" height="auto"/>
     
-    ![image.png](37c7a9e4-5d5b-48ca-bc52-f9e7dfb22248.png)
+<img src="https://github.com/user-attachments/assets/1b33dca3-c0b7-401b-8de2-778554a7b70d"  width="500" height="auto"/>
     
-    ![image.png](adc948db-7008-48be-adbd-e815ab27bc25.png)
+<img src="https://github.com/user-attachments/assets/67bbf0cd-6919-4ad7-a524-5219869ca4e1"  width="500" height="auto"/>
     
 
 # 🏁 프로젝트 후기
