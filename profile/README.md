@@ -48,11 +48,11 @@
 
 
 
-| <img src="" width="150"> | <img src="https://avatars.githubusercontent.com/u/169512141?v=4" width="100">| <img src="https://avatars.githubusercontent.com/u/172457805?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169998489?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/169139840?v=4" width="150">|
+| <img src="https://avatars.githubusercontent.com/u/192940711?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/192941132?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/172457805?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/190317968?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/64115708?v=4" width="150">|
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
 | **김노은**                          | **김다예**                       | **김성우**                       | **김희진**                       |  **이영주**                          |
 | BE 팀장                             | BE 팀원                          | BE 팀원                          | BE 팀원                          |  DevOps 팀원                         |
-| [Github 링크](https://github.com/siontext) | [Github 링크](https://github.com/HyeonJeongJae) | [Github 링크](https://github.com/sw326) | [Github 링크](https://github.com/yoonji220) | [Github 링크](https://github.com/jhchoen) |
+| [Github 링크](https://github.com/kimnoninoni) | [Github 링크](https://github.com/DayeByDay82) | [Github 링크](https://github.com/sw326) | [Github 링크](https://github.com/HJ2411) | [Github 링크](https://github.com/sensato437) |
 
 
 
