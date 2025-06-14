@@ -67,8 +67,7 @@
 
 ## :spring-data: ERD
 
-
-
+![image (4)](https://github.com/user-attachments/assets/68112774-bd2f-4098-9aea-d8ff914c680b)
 
 # ⚙️기술 스택
 
