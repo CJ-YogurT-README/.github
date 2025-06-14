@@ -4,7 +4,7 @@
 
 
 ## 이미지 테스트
-<img src="https://github.com/CJ-FS9/Front-YogurT/blob/bcacf54bbf00c60c91bab4e9e4b6e6ee8fc14d08/public/yog.png"  width="100" height="auto"/>
+<img src="https://img.notionusercontent.com/s3/prod-files-secure%2Fc44b719e-00bc-4c2f-8e2e-a35643b3895c%2F122c49f4-704b-4768-9e40-85595a3fd967%2FYogurT-header.png/size/w=1150?exp=1749978752&sig=1CHvpJo7oXbda2j2LHHRRDfP__6faow_eXM1IoaUWBI&id=212db984-79f6-802a-aab7-cb4dedf3cbcd&table=block&userId=3e5b6b18-631d-4e46-9e5c-971d4a1940a5"  width="500" height="auto"/>
 
 
 
