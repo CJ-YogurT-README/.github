@@ -7,7 +7,7 @@
 ---
 
 ### Back-end 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat)  ![Java 17](https://img.shields.io/badge/Java_17-007396?style=flat&logo=java&logoColor=white)  ![Caffeine](https://img.shields.io/badge/Caffeine-5A5A5A?style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-59666C?style=flat)  ![Java 17](https://img.shields.io/badge/Java_17-007396?style=flat&logo=java&logoColor=white)  ![Caffeine](https://img.shields.io/badge/Caffeine-5A5A5A?style=flat) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 
 ---
 
