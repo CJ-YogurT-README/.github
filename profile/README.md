@@ -51,7 +51,7 @@
 | <img src="https://avatars.githubusercontent.com/u/192940711?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/192941132?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/172457805?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/190317968?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/64115708?v=4" width="150">|
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
 | **김노은**                          | **김다예**                       | **김성우**                       | **김희진**                       |  **이영주**                          |
-| BE 팀장                             | BE 팀원                          | BE 팀원                          | BE 팀원                          |  DevOps 팀원                         |
+| 팀원                             | 팀원                          | 부팀장                          | 팀장                          |  팀원                         |
 | [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [sw326](https://github.com/sw326) | [HJ2411](https://github.com/HJ2411) | [sensato437](https://github.com/sensato437) |
 
 
