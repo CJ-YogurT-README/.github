@@ -21,5 +21,5 @@
 
 ---
 
-### 🚀 배포 환경  
+### 배포 환경  
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=black)  ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
