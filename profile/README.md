@@ -34,7 +34,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat&logo=awsamplify&logoColor=black)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat&logo=amazon-rds&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-FF9900?style=flat&logo=amazon-rds&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -51,7 +51,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 ![ERD](https://img.shields.io/badge/ERD-000000?style=flat&logo=data-modeling&logoColor=white)
-![Gather](https://img.shields.io/badge/Gather-FF5733?style=flat&logo=gather&logoColor=white)
+![Gather](https://img.shields.io/badge/Gather-527FFF?style=flat&logo=gather&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
 
 ---
