@@ -52,7 +52,7 @@
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
 | **김노은**                          | **김다예**                       | **김성우**                       | **김희진**                       |  **이영주**                          |
 | BE 팀장                             | BE 팀원                          | BE 팀원                          | BE 팀원                          |  DevOps 팀원                         |
-| [Github 링크](https://github.com/kimnoninoni) | [Github 링크](https://github.com/DayeByDay82) | [Github 링크](https://github.com/sw326) | [Github 링크](https://github.com/HJ2411) | [Github 링크](https://github.com/sensato437) |
+| [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [sw326](https://github.com/sw326) | [HJ2411](https://github.com/HJ2411) | [sensato437](https://github.com/sensato437) |
 
 
 
