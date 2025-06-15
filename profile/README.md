@@ -11,13 +11,15 @@
 - 교사는 자동 수집된 학습 통계를 통해 학급 전체의 학습 현황을 손쉽게 파악하고 효과적으로 지도할 수 있습니다. 또한, 수업 중 학생의 화면을 교사의 화면으로 전환시킬 수 있는 '**집중 학습 모드**' 기능도 제공됩니다.
 - 학생은 개별 학습과 평가를 진행하며, 자신의 학습 통계를 실시간으로 확인하고 복습할 수 있습니다.
 
+<br/>
+
 ## 개발 기간 및 작업 관리
 
 2025/05/14 ~ 2025/06/12 (총 19일)
 
 ![Image](https://github.com/user-attachments/assets/bc425a49-c367-4d33-b185-e3b84b119782)
 
-
+<br/>
 
 # 🙌🏻 팀원 구성 ( 둘 중에 더 맘에 드는 거 채택! )
 
@@ -27,9 +29,11 @@
 | 팀원                             | 팀원                          | 부팀장                          | 팀장                          |  팀원                         |
 | [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [sw326](https://github.com/sw326) | [HJ2411](https://github.com/HJ2411) | [sensato437](https://github.com/sensato437) |
 
-
+<br/>
 
 ---
+
+<br/>
 
 | <img src="https://github.com/user-attachments/assets/7ccacfff-a272-43d2-9efa-0cdaaca137ac"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/fc2c96f5-5721-4b7c-a222-dc919df55ef4"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/4888b177-d6b7-4072-96fb-996a25dea21a"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/707d9e8e-9fcd-456c-88d8-a35469920278"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/1fcd0abc-0a53-4dfe-8f51-c24bd8288f5c"  width="150" height="auto"/> |
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
@@ -37,15 +41,19 @@
 | 팀원                             | 팀원                          | 부팀장                          | 팀장                          |  팀원                         |
 | [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [sw326](https://github.com/sw326) | [HJ2411](https://github.com/HJ2411) | [sensato437](https://github.com/sensato437) |
 
-### 역할 분담
+<br/>
+
+# 역할 분담
 
 ![YogurT_역할.jpg](https://github.com/user-attachments/assets/c427738e-aed7-40f2-803f-10a8000bd629)
 
-# :spring-data: ERD
+<br/>
 
----
+# ERD
 
 ![image.png](https://github.com/user-attachments/assets/b2309f44-c034-4bbf-b420-de6cec55ff44)
+
+<br/>
 
 # ⚙️기술 스택
 
@@ -106,8 +114,9 @@
 
 ---
 
+<br/>
 
-## 개발환경
+# 개발환경
 ![YogurT 최종 프로젝트(원본).pptx.jpg](https://github.com/user-attachments/assets/3135811d-b0ab-492b-9a07-6962ffbd0b8a)
 
 | **Front-end** | React, styled-components, TypeScript, Zustand, TanStack-Query, STOMP, MathJax |
@@ -117,13 +126,15 @@
 | **협업 툴** | Slack, Notion, Swagger |
 | **배포 환경** | Amplify, Amazone EC2 |
 
-## 프로젝트 아키텍처
+<br/>
+
+# 프로젝트 아키텍처
 
 ![image.png](https://github.com/user-attachments/assets/c445bbdd-e8d3-4059-8055-eae3be02cfe8)
 
-# 🚦핵심 기능
+<br/>
 
----
+# 🚦핵심 기능
 
 ## 수업
 
@@ -141,9 +152,9 @@
 - 문항별 응시 시간 및 정오답 여부, 학급의 평균 시간 및 정답률 등의 통계를 확인할 수 있다.
 - 교사의 경우 평가창에서 바로 문항의 정답 및 해설을 볼 수 있는 기능을 제공한다.
 
-# 🌿**브랜치 전략 및 깃 컨벤션**
+<br/>
 
----
+# 🌿**브랜치 전략 및 깃 컨벤션**
 
 ## 브랜치 전략
 
@@ -154,6 +165,8 @@
     - **dev** 브랜치는 개발 단계에서 git-flow의 master 역할을 하는 브랜치입니다. 
     (Backend의 경우 이 브랜치를 배포단계까지 사용)
     - **Feat** 브랜치는 기능 단위로 독립적인 개발 환경을 위하여 사용하고 merge 후 각 브랜치를 삭제해주었습니다.
+
+<br/>
 
 ## 깃 커밋 컨벤션
 
@@ -170,9 +183,9 @@
 | rename | 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우 |
 | remove | 코드 및 파일 제거 |
 
-# 🛖 프로젝트 구조
+<br/>
 
----
+# 🛖 프로젝트 구조
 
 ### **Front-end**
 
@@ -268,22 +281,23 @@ Back-YogurT
          └─ application.properties
 ```
 
+<br/>
+
 # 🔨 기능 상세 소개
 
----
-
 ## 🏡 홈
-<img src="https://github.com/user-attachments/assets/d2033342-7469-45da-82f4-208e8a9ee2cf"  width="500" height="auto"/>        
 
-교사 홈
+<br/>
 
-<img src="https://github.com/user-attachments/assets/0f8fbf09-bf34-41ea-92c2-7f3a6713a70f"  width="500" height="auto"/>
+### 교사 홈 & 학생 홈
 
-학생 홈
+<img src="https://github.com/user-attachments/assets/d2033342-7469-45da-82f4-208e8a9ee2cf"  width="500" height="auto"/> <img src="https://github.com/user-attachments/assets/0f8fbf09-bf34-41ea-92c2-7f3a6713a70f"  width="500" height="auto"/>
+
+<br/>
 
 ## 📔 수업
 
-### 수업 이어하기
+### 수업 이어하기, 학습 완료 처리
 
 <img src="https://github.com/user-attachments/assets/6eed36f7-cc23-4ddf-a22c-050c1419de59"  width="500" height="auto"/>
 
@@ -291,13 +305,14 @@ Back-YogurT
 
 <img src="https://github.com/user-attachments/assets/8a743b45-d13f-4381-bf10-0bb8f6970546"  width="500" height="auto"/>
 
-### 수업 사이드바 (3초 뒤 저장)
+### 수업 사이드바 (3초 뒤 저장), 분기별(익힘/평가) 선택
 
 <img src="https://github.com/user-attachments/assets/9c45cf94-2761-456a-8982-fea32a2358c7"  width="500" height="auto"/>
 
 ### 분기별(익힘/평가) 선택
-
 <img src="https://github.com/user-attachments/assets/d34a0d05-488a-473b-b638-cf5623ac2c53"  width="500" height="auto"/>
+
+<br/>
 
 ## 🚀 웹소켓
 
