@@ -1,54 +1,25 @@
-# Organization README
-## 기술 스택
-
-
-
-## 이미지 테스트
-<img src="https://github.com/user-attachments/assets/da0d2618-7751-4e7a-b644-f2724e70b428"  width="500" height="auto"/>
-
-![Image](https://github.com/user-attachments/assets/ad81c3b6-1db2-4cc3-b377-b79ed295b44e)
-
-
-<img src="https://github.com/user-attachments/assets/ad81c3b6-1db2-4cc3-b377-b79ed295b44e"  width="500" height="auto"/>
-
 # **📝** 프로젝트 소개
 
----
+![YogurT-header.png](https://github.com/user-attachments/assets/da0d2618-7751-4e7a-b644-f2724e70b428)
 
-<aside>
+요거티(YogurT)는 천재교육의 서비스인 'AIDT'와 '밀크T'에서 영감을 받아 만들어졌으며, 여기서 T는 Textbook(교과서)와 Teacher(교사)를 의미합니다.
 
-![YogurT-header.png](https://github.com/user-attachments/assets/42dc90b3-adaa-4ae2-95ee-a724d89ea7b8)
-
-**요거티(YogurT)**는 천재교육의 서비스인 ‘AIDT’와 ‘밀크T’에서 영감을 받아 만들어졌으며, 여기서 **T**는 **Textbook(교과서)**와 **Teacher(교사)**를 의미합니다.
-
-‘요거트’처럼 부드럽고 친숙한 학습 도구가 되기를 바라는 마음을 담았습니다.
-
-</aside>
+'요거트'처럼 부드럽고 친숙한 학습 도구가 되기를 바라는 마음을 담았습니다.
 
 - **YogurT** 는 천재교육의 AIDT(AI 디지털 교과서)를 기반으로 한 차세대 학습 지원 플랫폼입니다.
 - 학습 콘텐츠 제공, 학습 진도 추적, 차시별 평가, 그리고 교사와 학생 간의 상호작용을 통합적으로 지원합니다.
-- 교사는 자동 수집된 학습 통계를 통해 학급 전체의 학습 현황을 손쉽게 파악하고 효과적으로 지도할 수 있습니다. 또한, 수업 중 학생의 화면을 교사의 화면으로 전환시킬 수 있는 ‘**집중 학습 모드**’ 기능도 제공됩니다.
+- 교사는 자동 수집된 학습 통계를 통해 학급 전체의 학습 현황을 손쉽게 파악하고 효과적으로 지도할 수 있습니다. 또한, 수업 중 학생의 화면을 교사의 화면으로 전환시킬 수 있는 '**집중 학습 모드**' 기능도 제공됩니다.
 - 학생은 개별 학습과 평가를 진행하며, 자신의 학습 통계를 실시간으로 확인하고 복습할 수 있습니다.
-
-
-
-
-
-
 
 ## 개발 기간 및 작업 관리
 
----
-
 2025/05/14 ~ 2025/06/12 (총 19일)
 
-
-
-## 🙌🏻 팀원 구성
-
+![Image](https://github.com/user-attachments/assets/bc425a49-c367-4d33-b185-e3b84b119782)
 
 
 
+# 🙌🏻 팀원 구성 ( 둘 중에 더 맘에 드는 거 채택! )
 
 | <img src="https://avatars.githubusercontent.com/u/192940711?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/192941132?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/172457805?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/190317968?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/64115708?v=4" width="150">|
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
@@ -58,34 +29,25 @@
 
 
 
+---
 
-역할 분담
+| <img src="https://github.com/user-attachments/assets/7ccacfff-a272-43d2-9efa-0cdaaca137ac"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/fc2c96f5-5721-4b7c-a222-dc919df55ef4"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/4888b177-d6b7-4072-96fb-996a25dea21a"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/707d9e8e-9fcd-456c-88d8-a35469920278"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/1fcd0abc-0a53-4dfe-8f51-c24bd8288f5c"  width="150" height="auto"/> |
+|-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
+| **김노은**                          | **김다예**                       | **김성우**                       | **김희진**                       |  **이영주**                          |
+| 팀원                             | 팀원                          | 부팀장                          | 팀장                          |  팀원                         |
+| [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [sw326](https://github.com/sw326) | [HJ2411](https://github.com/HJ2411) | [sensato437](https://github.com/sensato437) |
 
+### 역할 분담
 
+![YogurT_역할.jpg](https://github.com/user-attachments/assets/c427738e-aed7-40f2-803f-10a8000bd629)
 
-
-
-## :spring-data: ERD
-
-![image (4)](https://github.com/user-attachments/assets/68112774-bd2f-4098-9aea-d8ff914c680b)
-
-# ⚙️기술 스택
+# :spring-data: ERD
 
 ---
 
-## 개발환경
+![image.png](https://github.com/user-attachments/assets/b2309f44-c034-4bbf-b420-de6cec55ff44)
 
-Front-end	React, styled-components, TypeScript, Zustand, TanStack-Query, STOMP, MathJax
-Back-end	Spring Boot, Spring Data JPA, Java 17, Caffeine
-버전 관리	Git, GitHub
-협업 툴	Slack, Notion, Swagger
-배포 환경	Amplify
-Amazone EC2
-
-
-
-
-
+# ⚙️기술 스택
 
 ### Front-end  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -139,107 +101,11 @@ Amazone EC2
 ![ERD](https://img.shields.io/badge/ERD-000000?style=flat&logo=data-modeling&logoColor=white)
 ![Gather](https://img.shields.io/badge/Gather-527FFF?style=flat&logo=gather&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagrams.net&logoColor=white)
-
----
-
-### 버전 관리  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-
-
-
-
-
----
----
-
-# 깃허브 README
-
-# 📋 목차
-
----
-
----
-
-[https://www.canva.com/design/DAGqNpiGGTs/D0g6thnkLmBkkYLNcnWbeA/view?utm_content=DAGqNpiGGTs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h945b0998d4](https://www.canva.com/design/DAGqNpiGGTs/D0g6thnkLmBkkYLNcnWbeA/view?utm_content=DAGqNpiGGTs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h945b0998d4)
-
-# **📝** 프로젝트 소개
-
----
-
-<aside>
-
-![YogurT-header.png](https://github.com/user-attachments/assets/da0d2618-7751-4e7a-b644-f2724e70b428)
-
-**요거티(YogurT)**는 천재교육의 서비스인 'AIDT'와 '밀크T'에서 영감을 받아 만들어졌으며, 여기서 **T**는 **Textbook(교과서)**와 **Teacher(교사)**를 의미합니다.
-
-'요거트'처럼 부드럽고 친숙한 학습 도구가 되기를 바라는 마음을 담았습니다.
-
-</aside>
-
-- **YogurT** 는 천재교육의 AIDT(AI 디지털 교과서)를 기반으로 한 차세대 학습 지원 플랫폼입니다.
-- 학습 콘텐츠 제공, 학습 진도 추적, 차시별 평가, 그리고 교사와 학생 간의 상호작용을 통합적으로 지원합니다.
-- 교사는 자동 수집된 학습 통계를 통해 학급 전체의 학습 현황을 손쉽게 파악하고 효과적으로 지도할 수 있습니다. 또한, 수업 중 학생의 화면을 교사의 화면으로 전환시킬 수 있는 '**집중 학습 모드**' 기능도 제공됩니다.
-- 학생은 개별 학습과 평가를 진행하며, 자신의 학습 통계를 실시간으로 확인하고 복습할 수 있습니다.
-
-## 개발 기간 및 작업 관리
-
----
-
-2025/05/14 ~ 2025/06/12 (총 19일)
-
-![Image](https://github.com/user-attachments/assets/bc425a49-c367-4d33-b185-e3b84b119782)
-
-# 🙌🏻 팀원 구성
-
----
-
-**김노은**
-
-<img src="https://github.com/user-attachments/assets/7ccacfff-a272-43d2-9efa-0cdaaca137ac"  width="150" height="auto"/>
-
-[@kimnoninoni](https://github.com/kimnoninoni)
-
-**김다예**
-
-<img src="https://github.com/user-attachments/assets/fc2c96f5-5721-4b7c-a222-dc919df55ef4"  width="150" height="auto"/>
-
-[@DayeByDay82](https://github.com/DayeByDay82)
-
-**김성우**
-
-<img src="https://github.com/user-attachments/assets/4888b177-d6b7-4072-96fb-996a25dea21a"  width="150" height="auto"/>
-
-[@sw326](https://github.com/sw326)
-
-**김희진**
-
-<img src="https://github.com/user-attachments/assets/707d9e8e-9fcd-456c-88d8-a35469920278"  width="150" height="auto"/>
-
-[@HJ2411](https://github.com/HJ2411)
-
-**이영주**
-
-<img src="https://github.com/user-attachments/assets/1fcd0abc-0a53-4dfe-8f51-c24bd8288f5c"  width="150" height="auto"/>
-
-[@sensato437](https://github.com/sensato437)
-
-### 역할 분담
-
-![YogurT_역할.jpg](https://github.com/user-attachments/assets/c427738e-aed7-40f2-803f-10a8000bd629)
-
-# :spring-data: ERD
-
----
-
-![image.png](https://github.com/user-attachments/assets/b2309f44-c034-4bbf-b420-de6cec55ff44)
-
-# ⚙️기술 스택
-
----
 
 ## 개발환경
 ![YogurT 최종 프로젝트(원본).pptx.jpg](https://github.com/user-attachments/assets/3135811d-b0ab-492b-9a07-6962ffbd0b8a)
@@ -249,8 +115,7 @@ Amazone EC2
 | **Back-end** | Spring Boot, Spring Data JPA, Java 17, Caffeine |
 | **버전 관리** | Git, GitHub |
 | **협업 툴** | Slack, Notion, Swagger |
-| **배포 환경** | Amplify
-Amazone EC2 |
+| **배포 환경** | Amplify, Amazone EC2 |
 
 ## 프로젝트 아키텍처
 
