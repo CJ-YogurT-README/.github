@@ -2,11 +2,10 @@
 
 ![YogurT-header.png](https://github.com/user-attachments/assets/da0d2618-7751-4e7a-b644-f2724e70b428)
 
-요거티(YogurT)는 천재교육의 서비스인 'AIDT'와 '밀크T'에서 영감을 받아 만들어졌으며, 여기서 T는 Textbook(교과서)와 Teacher(교사)를 의미합니다.
+> **요거T**(YogurT)는 천재교육의 서비스인 'AIDT'와 '밀크T'에서 영감을 받아 만들어졌습니다.<br />
+> 여기서 T는 Textbook(교과서)와 Teacher(교사)를 의미합니다.<br />
+> '요거트'처럼 부드럽고 친숙한 학습 도구가 되기를 바라는 마음을 담았습니다.
 
-'요거트'처럼 부드럽고 친숙한 학습 도구가 되기를 바라는 마음을 담았습니다.
-
-- **YogurT** 는 천재교육의 AIDT(AI 디지털 교과서)를 기반으로 한 차세대 학습 지원 플랫폼입니다.
 - 학습 콘텐츠 제공, 학습 진도 추적, 차시별 평가, 그리고 교사와 학생 간의 상호작용을 통합적으로 지원합니다.
 - 교사는 자동 수집된 학습 통계를 통해 학급 전체의 학습 현황을 손쉽게 파악하고 효과적으로 지도할 수 있습니다. 또한, 수업 중 학생의 화면을 교사의 화면으로 전환시킬 수 있는 '**집중 학습 모드**' 기능도 제공됩니다.
 - 학생은 개별 학습과 평가를 진행하며, 자신의 학습 통계를 실시간으로 확인하고 복습할 수 있습니다.
@@ -137,7 +136,7 @@
 
 # 🚦핵심 기능
 
-## 수업
+## ⭐️ 수업
 
 - 교과서 단원에 맞는 수업 컨텐츠 조회 및 재생
 - 학습 진도율을 저장하여 이어하기 및 빠른 접근이 가능
@@ -147,7 +146,7 @@
 - 디지털 교과서와 연계된 실물 교과서의 내용을 PDF 뷰어로 제공
 - 수업, 평가, 교과서 창에 판서 기능 제공
 
-## 평가
+## ⭐️ 평가
 
 - 교과서 단원별 및 평가유형별 평가를 응시 후 결과 확인
 - 문항별 응시 시간 및 정오답 여부, 학급의 평균 시간 및 정답률 등의 통계 데이터 제공
@@ -288,83 +287,67 @@ Back-YogurT
 
 ## 🏡 홈
 
-<br/>
-
-### 교사 홈 & 학생 홈
-
-<img src="https://github.com/user-attachments/assets/d2033342-7469-45da-82f4-208e8a9ee2cf"  width="500" height="auto"/> <img src="https://github.com/user-attachments/assets/0f8fbf09-bf34-41ea-92c2-7f3a6713a70f"  width="500" height="auto"/>
+| 교사                                                                                                                      | 학생                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/user-attachments/assets/d2033342-7469-45da-82f4-208e8a9ee2cf"  width="500" height="auto"/> | <img src="https://github.com/user-attachments/assets/0f8fbf09-bf34-41ea-92c2-7f3a6713a70f"  width="500" height="auto"/> |
 
 <br/>
 
 ## 📔 수업
 
-### 수업 이어하기, 학습 완료 처리
-
-<img src="https://github.com/user-attachments/assets/6eed36f7-cc23-4ddf-a22c-050c1419de59"  width="500" height="auto"/>
-
-### 학습 완료 처리
-
-<img src="https://github.com/user-attachments/assets/8a743b45-d13f-4381-bf10-0bb8f6970546"  width="500" height="auto"/>
-
-### 수업 사이드바 (3초 뒤 저장)
-
-<img src="https://github.com/user-attachments/assets/9c45cf94-2761-456a-8982-fea32a2358c7"  width="500" height="auto"/>
-
-### 분기별(익힘/평가) 선택
-<img src="https://github.com/user-attachments/assets/d34a0d05-488a-473b-b638-cf5623ac2c53"  width="500" height="auto"/>
+| 수업 이어하기  |  학습 완료 처리   |
+| :-------------------------------------------: | :------------: |
+|  <img src="https://github.com/user-attachments/assets/6eed36f7-cc23-4ddf-a22c-050c1419de59"  width="480" height="auto"/> | <img src="https://github.com/user-attachments/assets/8a743b45-d13f-4381-bf10-0bb8f6970546"  width="480" height="auto"/>|  
+| **수업 사이드바 (3초 뒤 저장)**   |  **분기별(익힘/평가) 선택**   |  
+| <img src="https://github.com/user-attachments/assets/9c45cf94-2761-456a-8982-fea32a2358c7"  width="480" height="auto"/>   |  <img src="https://github.com/user-attachments/assets/d34a0d05-488a-473b-b638-cf5623ac2c53"  width="480" height="auto"/>     |
 
 <br/>
 
 ## 🚀 웹소켓
 
-### 중복 로그인 방지
-
-<img src="https://github.com/user-attachments/assets/e6a1952d-6020-4f8d-a0a3-de5f6cc21719"  width="500" height="auto"/>
-
-### 학생 모니터링 및 위치 추적
-
-<img src="https://github.com/user-attachments/assets/bdbe3f80-55a8-428b-ac09-c2b3e6fd0a18"  width="500" height="auto"/>
-
 ### 집중학습모드
 
 <img src="https://github.com/user-attachments/assets/218c3247-dff0-402f-8537-36f13680ef2a"  width="500" height="auto"/>
 
+<br/><br/>
+
+| 중복 로그인 방지                                                                                                                     | 학생 모니터링 및 위치 추적                                                                                                                      |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+| 다른 곳에서 로그인 시 기존 계정은 자동로그아웃 | 학생의 접속 상태나 위치를 추적할 수 있음 |
+| <img src="https://github.com/user-attachments/assets/e6a1952d-6020-4f8d-a0a3-de5f6cc21719"  width="480" height="auto"/> | <img src="https://github.com/user-attachments/assets/bdbe3f80-55a8-428b-ac09-c2b3e6fd0a18"  width="480" height="auto"/> |
+
+<br/>
+
 ## 📝 평가
 
 ### [학생 / 교사] 평가 목록
+| 학생 평가 목록                                                                                                                     | 교사 평가 목록                                                                                                                      |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+| 응시중인 평가만 보기 가능 | 진행중인 평가만 가능, 학급 평가 응시 통계 확인 가능 |
+| <img src="https://github.com/user-attachments/assets/21079461-398f-4c70-baa1-38248fcd44fa"  width="480" height="auto"/> | <img src="https://github.com/user-attachments/assets/be81e5e7-bff2-420d-9805-6b99a4338df9"  width="480" height="auto"/> |
+<br/>
 
+### 평가 응시 및 리포트
 
-<img src="https://github.com/user-attachments/assets/21079461-398f-4c70-baa1-38248fcd44fa"  width="500" height="auto"/>
-
-학생 평가 목록(응시중인 평가만 보기 가능)
-
-<img src="https://github.com/user-attachments/assets/be81e5e7-bff2-420d-9805-6b99a4338df9"  width="500" height="auto"/>
-
-교사 평가 목록(진행중인 평가만 가능, 학급 평가 응시 통계 확인 가능)
-
-### [공통] 평가 문항 풀이 (교사: 정답 보기 버튼 추가)
-
-<img src="https://github.com/user-attachments/assets/b2d1e395-9fdd-4217-b110-406149b21e29"  width="500" height="auto"/>
-
-평가 이어하기를 통한 이전 답안 표시
-
-### [교사] 학급 리포트 → 학생 리포트 → 학생 결과
-
-<img src="https://github.com/user-attachments/assets/df6ec945-4bfe-45f1-aff6-ef4aefb9ce47"  width="500" height="auto"/>
+| [공통] 평가 문항 풀이                                                                                                                     | [교사] 학급 리포트                                                                                                                      |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+| 평가 이어하기를 통한 이전 답안 표시<br/> 교사: 정답보기 버튼 추가 | 학급 리포트 → 학생 리포트 → 학생 결과 |
+| <img src="https://github.com/user-attachments/assets/b2d1e395-9fdd-4217-b110-406149b21e29"  width="480" height="auto"/> | <img src="https://github.com/user-attachments/assets/df6ec945-4bfe-45f1-aff6-ef4aefb9ce47"  width="480" height="auto"/> |
+<br/>
 
 ### 평가 네비게이션
 
-<img src="https://github.com/user-attachments/assets/a24e33c8-e6e3-4165-b67e-dc1a6898ef57"  width="500" height="auto"/>
+| 홈 → 평가 → 홈                                                                                                                     | 학습 상세 → 평가 → 학습 상세                                                                                                                      |
+| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github.com/user-attachments/assets/a24e33c8-e6e3-4165-b67e-dc1a6898ef57"  width="480" height="auto"/> | <img src="https://github.com/user-attachments/assets/e5c6ca65-34c8-4811-b701-802e864cf4e9"  width="480" height="auto"/> |
 
-홈 → 평가 → 홈
+<br/>
 
-<img src="https://github.com/user-attachments/assets/e5c6ca65-34c8-4811-b701-802e864cf4e9"  width="500" height="auto"/>
-
-학습 상세 → 평가 → 학습 상세
-
-### 판서 기능(Canvas)
+## 판서(Canvas)
 
 <img src="https://github.com/user-attachments/assets/e41808cf-8e9f-4b62-abfb-d17e4e37d44e"  width="500" height="auto"/>
+
+<br/>
 
 ## 📊 통계
 
@@ -384,6 +367,8 @@ Back-YogurT
 
 <img src="https://github.com/user-attachments/assets/231437a7-575e-4299-b109-de430f280dcb"  width="500" height="auto"/>
 
+<br/>
+
 # ⛳ 개선 목표
 
 - WebSocket의 잦은 연결 끊김 - Heartbeat (Ping/Pong) 구현 및 route53 서비스 변경
@@ -398,6 +383,7 @@ Back-YogurT
     
 <img src="https://github.com/user-attachments/assets/67bbf0cd-6919-4ad7-a524-5219869ca4e1"  width="500" height="auto"/>
     
+<br/>
 
 # 🏁 프로젝트 후기
 
