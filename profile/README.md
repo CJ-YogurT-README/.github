@@ -27,7 +27,7 @@
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
 | **김노은**                          | **김다예**                       | **김성우**                       | **김희진**                       |  **이영주**                          |
 | 팀원                             | 팀원                          | 부팀장                          | 팀장                          |  팀원                         |
-| [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [sw326](https://github.com/sw326) | [HJ2411](https://github.com/HJ2411) | [sensato437](https://github.com/sensato437) |
+| [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [@sw326](https://github.com/sw326) | [@HJ2411](https://github.com/HJ2411) | [@sensato437](https://github.com/sensato437) |
 
 <br/>
 
@@ -39,7 +39,7 @@
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
 | **김노은**                          | **김다예**                       | **김성우**                       | **김희진**                       |  **이영주**                          |
 | 팀원                             | 팀원                          | 부팀장                          | 팀장                          |  팀원                         |
-| [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [sw326](https://github.com/sw326) | [HJ2411](https://github.com/HJ2411) | [sensato437](https://github.com/sensato437) |
+| [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [@sw326](https://github.com/sw326) | [@HJ2411](https://github.com/HJ2411) | [@sensato437](https://github.com/sensato437) |
 
 <br/>
 
@@ -119,12 +119,13 @@
 # 개발환경
 ![YogurT 최종 프로젝트(원본).pptx.jpg](https://github.com/user-attachments/assets/3135811d-b0ab-492b-9a07-6962ffbd0b8a)
 
+| 구분            | 사용스택                                                                          |
+| ------------- | ----------------------------------------------------------------------------- |
 | **Front-end** | React, styled-components, TypeScript, Zustand, TanStack-Query, STOMP, MathJax |
-| --- | --- |
-| **Back-end** | Spring Boot, Spring Data JPA, Java 17, Caffeine |
-| **버전 관리** | Git, GitHub |
-| **협업 툴** | Slack, Notion, Swagger |
-| **배포 환경** | Amplify, Amazone EC2 |
+| **Back-end**  | Spring Boot, Spring Data JPA, Java 17, Caffeine                               |
+| **버전 관리**     | Git, GitHub                                                                   |
+| **협업 툴**      | Slack, Notion, Swagger                                                        |
+| **배포 환경**     | Amplify, Amazone EC2                                                          |
 
 <br/>
 
@@ -138,19 +139,19 @@
 
 ## 수업
 
-- 교과서 단원에 맞는 수업 컨텐츠를 조회 및 재생할 수 있다.
-- 학습의 진도율을 저장하여 이어하기 및 빠른 접근이 가능하다.
-- 웹소켓을 이용해 현재 접속 인원과 학생의 위치를 모니터링할 수 있다.
-- 학생이 보는 화면을 교사의 화면으로 강제이동시키는 집중학습모드를 제공한다.
-- 학습 시간을 계산하여 학습 패턴 및 통계를 관리할 수 있다.
-- 디지털 교과서와 연계된 실물 교과서의 내용을 PDF로 확인 가능하다.
-- 수업, 평가, 교과서 창에 판서가 가능하다.
+- 교과서 단원에 맞는 수업 컨텐츠 조회 및 재생
+- 학습 진도율을 저장하여 이어하기 및 빠른 접근이 가능
+- 웹소켓을 이용해 현재 접속 인원과 학생의 위치를 모니터링
+- 학생을 교사의 현재 위치로 강제이동시키는 집중학습모드 제공
+- 학습 시간을 계산하여 학습 패턴 및 통계 관리
+- 디지털 교과서와 연계된 실물 교과서의 내용을 PDF 뷰어로 제공
+- 수업, 평가, 교과서 창에 판서 기능 제공
 
 ## 평가
 
-- 교과서 단원별 및 평가유형별 평가를 응시하고 결과를 확인할 수 있다.
-- 문항별 응시 시간 및 정오답 여부, 학급의 평균 시간 및 정답률 등의 통계를 확인할 수 있다.
-- 교사의 경우 평가창에서 바로 문항의 정답 및 해설을 볼 수 있는 기능을 제공한다.
+- 교과서 단원별 및 평가유형별 평가를 응시 후 결과 확인
+- 문항별 응시 시간 및 정오답 여부, 학급의 평균 시간 및 정답률 등의 통계 데이터 제공
+- (교사) 평가창에서 바로 문항의 정답 및 해설을 볼 수 있는 기능 제공
 
 <br/>
 
@@ -305,7 +306,7 @@ Back-YogurT
 
 <img src="https://github.com/user-attachments/assets/8a743b45-d13f-4381-bf10-0bb8f6970546"  width="500" height="auto"/>
 
-### 수업 사이드바 (3초 뒤 저장), 분기별(익힘/평가) 선택
+### 수업 사이드바 (3초 뒤 저장)
 
 <img src="https://github.com/user-attachments/assets/9c45cf94-2761-456a-8982-fea32a2358c7"  width="500" height="auto"/>
 
@@ -320,7 +321,7 @@ Back-YogurT
 
 <img src="https://github.com/user-attachments/assets/e6a1952d-6020-4f8d-a0a3-de5f6cc21719"  width="500" height="auto"/>
 
-### 학생 온라인 및 위치 추적
+### 학생 모니터링 및 위치 추적
 
 <img src="https://github.com/user-attachments/assets/bdbe3f80-55a8-428b-ac09-c2b3e6fd0a18"  width="500" height="auto"/>
 
@@ -385,8 +386,6 @@ Back-YogurT
 
 # ⛳ 개선 목표
 
----
-
 - WebSocket의 잦은 연결 끊김 - Heartbeat (Ping/Pong) 구현 및 route53 서비스 변경
 - UX를 고려한 세부적인 디테일 개선 필요
 - 캐싱 처리로 성능, 속도 개선이 필요함
@@ -401,8 +400,6 @@ Back-YogurT
     
 
 # 🏁 프로젝트 후기
-
----
 
 ## 김노은
 
