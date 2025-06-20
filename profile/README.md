@@ -20,19 +20,7 @@
 
 <br/>
 
-# 🙌🏻 팀원 구성 ( 둘 중에 더 맘에 드는 거 채택! )
-
-| <img src="https://avatars.githubusercontent.com/u/192940711?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/192941132?v=4" width="150">| <img src="https://avatars.githubusercontent.com/u/172457805?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/190317968?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/64115708?v=4" width="150">|
-|-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
-| **김노은**                          | **김다예**                       | **김성우**                       | **김희진**                       |  **이영주**                          |
-| 팀원                             | 팀원                          | 부팀장                          | 팀장                          |  팀원                         |
-| [@kimnoninoni](https://github.com/kimnoninoni) | [@DayeByDay82](https://github.com/DayeByDay82) | [@sw326](https://github.com/sw326) | [@HJ2411](https://github.com/HJ2411) | [@sensato437](https://github.com/sensato437) |
-
-<br/>
-
----
-
-<br/>
+# 🙌🏻 팀원 구성
 
 | <img src="https://github.com/user-attachments/assets/7ccacfff-a272-43d2-9efa-0cdaaca137ac"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/fc2c96f5-5721-4b7c-a222-dc919df55ef4"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/4888b177-d6b7-4072-96fb-996a25dea21a"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/707d9e8e-9fcd-456c-88d8-a35469920278"  width="150" height="auto"/> | <img src="https://github.com/user-attachments/assets/1fcd0abc-0a53-4dfe-8f51-c24bd8288f5c"  width="150" height="auto"/> |
 |-------------------------------------|----------------------------------|----------------------------------|----------------------------------|-------------------------------------|
